@@ -1,9 +1,5 @@
 # Student Performance and Aptitude Analysis
 
-<p align="center">
-  <img src="./assets/logo.png" alt="The Key" width="200" />
-</p>
-
 ## Project Background
 #### This project presents a rigorous statistical analysis of 150 students across three English Course Levels (Advanced, Intermediate, Foundation) to validate the effectiveness of The Key's course placement system. The study examines the relationship between aptitude test scores and actual performance to ensure students are placed in appropriate learning environments
 
