@@ -12,5 +12,5 @@
 
 
 ## Data Structure & Initial Checks
-#### This project consist of 3 tables: student_aptitude_data, student_performance_data, and student_combined_data, with total row count of 150 records.
+#### This project consist of 1 table: student_combined_data, with total row count of 150 records.
 
